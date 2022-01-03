@@ -1,6 +1,6 @@
 {
-  "name": "css-shortener",
-  "version": "2.1.0",
+  "name": "css-shortener-2",
+  "version": "2.1.2",
   "description": "Utility to shorten css class names",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbrandau/css-shortener.git"
+    "url": "https://github.com/Awen-hub/css-shorter-2"
   },
   "keywords": [
     "css",
@@ -28,12 +28,15 @@
     "name",
     "shorten"
   ],
-  "author": "Maximilian Brandau",
+  "author": {
+    "name": "Awen-hub",
+    "email": "920733056@qq.com"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mbrandau/css-shortener/issues"
+    "url": "https://github.com/Awen-hub/css-shorter-2/issues"
   },
-  "homepage": "https://github.com/mbrandau/css-shortener#readme",
+  "homepage": "https://github.com/Awen-hub/css-shorter-2#readme",
   "dependencies": {
     "replacestream": "^4.0.3",
     "yargs": "^14.0.0"
