@@ -1,4 +1,7 @@
-# css-shortener
+# css-shortener-2
+
+鉴于css-shortener已长时间不维护，此为个人fork 2.1.0版本之后的个人开源版本
+
 [![Build Status](https://img.shields.io/travis/mbrandau/css-shortener.svg)](https://travis-ci.org/mbrandau/css-shortener) [![Coverage Status](https://img.shields.io/coveralls/github/mbrandau/css-shortener.svg)](https://coveralls.io/github/mbrandau/css-shortener?branch=master) [![npm](https://img.shields.io/npm/v/css-shortener.svg)](https://www.npmjs.com/package/css-shortener) [![npm](https://img.shields.io/npm/dt/css-shortener.svg)](https://www.npmjs.com/package/css-shortener) [![GitHub issues](https://img.shields.io/github/issues/mbrandau/css-shortener.svg)](https://github.com/mbrandau/css-shortener/issues)
 
 Utility to shorten css class names. **Saves more than 20%** of [Bootstrap](https://getbootstrap.com)! It also **works with minified code**.
